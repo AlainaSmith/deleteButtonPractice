@@ -1,0 +1,15 @@
+.bandList{
+display: flex;
+justify-content: center;
+
+}
+
+#bandCard{
+    background-color: white;
+    height: 400px;
+    width: 300px;
+    border: black 5px solid;
+    position: relative;
+    bottom: 1270px;
+    left: 580px
+}
